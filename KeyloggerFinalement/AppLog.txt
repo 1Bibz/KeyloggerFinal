@@ -1,0 +1,21 @@
+[16.05.2021 02:18:31]
+Hook Stater... Timer Started
+
+[16.05.2021 17:14:54]
+Hook Stater... Timer Started
+
+[16.05.2021 17:14:56]
+Mail not sent! Error code: 1
+
+[16.05.2021 17:14:56]
+<From SendMail> Return code: 32762
+
+[16.05.2021 17:16:54]
+Mail not sent! Error code: 1
+
+[16.05.2021 17:16:54]
+<From SendMail> Return code: 32762
+
+[16.05.2021 17:16:57]
+Mail not sent! Error code: 1
+
